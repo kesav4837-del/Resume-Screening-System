@@ -101,7 +101,7 @@ Resume-Screening-System/
 
 ## 👩‍💻 Developer
 
-**Sravani Gedela**  
+**Kesav Vishnu Vardhan Tiruveedhula**  
 Final Year Mini Project – Resume Screening System  
 Domain: AI / Machine Learning / Web Development
 
